@@ -14,7 +14,11 @@ Tata Cara:
     <img src="https://github.com/user-attachments/assets/894050d6-4344-46c9-94a0-41795cb6ac82" width="300">
  </p>
 
-- Setelah mendapatkan balasan Positif dari bot domyikado, Kamu akan dapat link foto profile strava dari balasan bot, copas dan masukkan ke profile akun [do.my.id](https://www.do.my.id/)
+- Setelah mendapatkan balasan Positif dari bot domyikado, Kamu akan dapat link foto profile strava dari balasan bot, copas dan masukkan ke profile akun di field strava provile picture [do.my.id](https://www.do.my.id/)
+  
+ <p align="center">
+    <img src="https://github.com/user-attachments/assets/b7ed1705-21f1-4a93-801d-79e2d46e0aee" width="300">
+ </p>
 
 - Untuk share aktivitas strava ke bot domyikado
 
