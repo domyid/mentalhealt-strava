@@ -17,7 +17,7 @@ Tata Cara:
 - Setelah mendapatkan balasan Positif dari bot domyikado, Kamu akan dapat link foto profile strava dari balasan bot, copas dan masukkan ke profile akun di field strava provile picture [do.my.id](https://www.do.my.id/)
   
  <p align="center">
-    <img src="https://github.com/user-attachments/assets/b7ed1705-21f1-4a93-801d-79e2d46e0aee" width="300">
+    <img src="https://github.com/user-attachments/assets/2ef67307-7bec-47f0-a77b-a99d8ec28292">
  </p>
 
 - Untuk share aktivitas strava ke bot domyikado
@@ -35,5 +35,9 @@ Tata Cara:
 - Tambahan, jika kamu update foto profile strava, update juga pada bot domyikado dengan keyword "strava update in"
 
 - Respon dari bot domyikado akan menampilkan link foto profile strava baru, copas dan update ke profile akun [do.my.id](https://www.do.my.id/)
+
+ <p align="center">
+    <img src="https://github.com/user-attachments/assets/9e4b997e-e000-4c92-bcd0-aba08fa177c3">
+ </p>
 
 - Selesai
