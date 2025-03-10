@@ -3,7 +3,7 @@
 Tata Cara:
 
 1. Daftar/login ke akun Strava dan masuk ke profile, kemudian share link profile ke whatsapp
-   ![Share ke wa](https://github.com/user-attachments/assets/14e4b57a-ddb7-4286-857a-477186a2e10b)
+   <img src="https://github.com/user-attachments/assets/14e4b57a-ddb7-4286-857a-477186a2e10b" width="300">
 
 2. Kemudian tambahkan keyword "strava identity" dan kirim
    ![Kirim ke bot myika](https://github.com/user-attachments/assets/894050d6-4344-46c9-94a0-41795cb6ac82)
