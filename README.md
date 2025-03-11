@@ -8,6 +8,16 @@ Tata Cara:
     <img src="https://github.com/user-attachments/assets/14e4b57a-ddb7-4286-857a-477186a2e10b" width="300">
  </p>
 
+- Pastikan akun strava di buat public(everyone)
+
+ <p align="center">
+    <img src="https://github.com/user-attachments/assets/0aaf34fa-05ff-4d67-af06-594c92eeae52" width="300">
+ </p>
+
+ <p align="center">
+    <img src="https://github.com/user-attachments/assets/0ff3d647-5428-4d5a-843d-096d8b4c2f0c" width="300">
+ </p>
+
 - Kemudian tambahkan keyword "strava identity" dan kirim
 
  <p align="center">
