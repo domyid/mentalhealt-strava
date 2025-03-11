@@ -12,9 +12,6 @@ Tata Cara:
 
  <p>
     <img src="https://github.com/user-attachments/assets/0aaf34fa-05ff-4d67-af06-594c92eeae52" width="300">
- </p>
-
- <p>
     <img src="https://github.com/user-attachments/assets/e4bb57c7-2542-4219-8da1-e5eb227e2d29" width="300">
  </p>
 
