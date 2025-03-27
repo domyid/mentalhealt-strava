@@ -15,7 +15,7 @@ Tata Cara:
     <img src="https://github.com/user-attachments/assets/e4bb57c7-2542-4219-8da1-e5eb227e2d29" width="300">
  </p>
 
-- Kemudian tambahkan keyword "strava identity" dan kirim
+- Kemudian tambahkan keyword "strava identity" dan kirim (pastikan nomor wa yang digunakan adalah yang terdaftar di do.my.id)
 
  <p align="center">
     <img src="https://github.com/user-attachments/assets/894050d6-4344-46c9-94a0-41795cb6ac82" width="300">
